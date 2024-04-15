@@ -1,0 +1,23 @@
+| Email Subject                                   | Email Body                                                                      | Label    |
+|------------------------------------------------|---------------------------------------------------------------------------------|----------|
+| Urgent: Claim Your Prize Now!                  | Congratulations! You've won a million dollars! Claim your prize now!             | Spam     |
+| Invitation to the Annual Conference            | Dear valued member, You're invited to attend our annual conference.              | Not Spam |
+| Exclusive Offer: 50% Off Today Only            | Limited time offer! Get 50% off on selected items. Don't miss out!               | Spam     |
+| Reminder: Your Appointment Tomorrow            | Just a friendly reminder that you have an appointment scheduled for tomorrow.    | Not Spam |
+| Get Rich Quick Scheme                          | Make thousands of dollars from home with our revolutionary system!               | Spam     |
+| Invitation to Dinner Party                     | Join us for a delightful evening of food, music, and laughter.                   | Not Spam |
+| Important Update: Your Account Information     | Your account information needs to be updated. Please log in to verify.           | Not Spam |
+| You're a Winner!                               | You're our lucky winner! Click here to claim your prize.                         | Spam     |
+| Last Chance: Limited Time Offer                | This is your last chance to avail of our special offer. Act now!                 | Spam     |
+| Invitation to Charity Event                    | Help us make a difference. Join our charity event for a noble cause.            | Not Spam |
+| Increase Your Income Today                     | Learn the secrets to increasing your income with our exclusive guide.            | Spam     |
+| Weekly Newsletter                               | Stay updated with our weekly newsletter featuring the latest trends.             | Not Spam |
+| You've Won a Free Vacation!                    | Congratulations! You've won a free vacation to your dream destination.           | Spam     |
+| Important Notice: Policy Update                | We've updated our policies. Please review the changes at your earliest convenience. | Not Spam |
+| Limited Time Offer: Buy One, Get One Free      | Buy one item, get the second one free! Hurry, offer ends soon.                   | Spam     |
+| Invitation to Webinar                          | Join our upcoming webinar on the future of technology. Reserve your spot now!    | Not Spam |
+| Urgent: Verify Your Account                    | Your account needs verification. Click here to verify your details.              | Spam     |
+| Invitation to Birthday Celebration             | Help us celebrate Jane's birthday this weekend. RSVP by Friday.                  | Not Spam |
+| Congratulations! You're Our Lucky Winner!      | You've been selected as our grand prize winner. Claim your reward now!           | Spam     |
+| Exclusive Sale Event                           | Enjoy exclusive discounts at our sale event this weekend.                        | Not Spam |
+| Important Update: Security Alert               | Your account security may be compromised. Take action now to secure it.          | Not Spam |
